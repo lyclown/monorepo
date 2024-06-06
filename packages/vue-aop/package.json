@@ -1,0 +1,23 @@
+{
+  "name": "vue-aop",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "李耀 <liyao@chinahuanong.com.cn>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/vue-aop.js",
+  "type": "module",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com/"
+  },
+  "scripts": {
+    "test": "node ./__tests__/vue-aop.test.js"
+  }
+}
